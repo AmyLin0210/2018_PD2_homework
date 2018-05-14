@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Question">
+        <file>su_question.txt</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

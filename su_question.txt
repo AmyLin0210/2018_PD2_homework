@@ -1,0 +1,125 @@
+easy
+1
+0 0 e c f 0 d 0 0
+i f b 0 0 d 0 g 0
+c 0 d 0 b i 0 f 0
+h b 0 i d 0 0 a c
+0 d i 0 c 0 0 e g
+0 0 0 b 0 0 i h 0
+d 0 f 0 0 a 0 0 b
+0 0 0 f i c 0 0 e
+0 0 c 0 h 0 0 0 0
+2
+0 d 0 0 0 g a 0 0
+e c 0 0 i 0 0 g 0
+0 0 g 0 f 0 i d 0
+d 0 f 0 h 0 g e a
+0 a 0 0 0 0 f i 0
+0 e c 0 a 0 0 0 b
+i f 0 0 c 0 0 a 0
+c g 0 0 e a 0 0 0
+a 0 0 b 0 i c f g
+3
+i h d 0 c a 0 g b
+f a 0 0 0 g 0 0 0
+b e g 0 0 i h 0 0
+c 0 0 0 f 0 0 a 0
+0 0 0 c g 0 i b 0
+0 0 i 0 0 e 0 0 0
+0 c 0 0 0 f 0 0 0
+0 d e 0 a h 0 i f
+a i f g 0 0 b h 0
+4
+0 0 i 0 0 b 0 0 e
+e c h 0 f d 0 0 i
+a f b 0 0 0 0 c 0
+0 0 c 0 b g 0 0 0
+0 e d f 0 0 a 0 0
+0 0 g 0 a e c d 0
+c 0 0 h 0 a i 0 f
+g 0 0 c 0 0 h e 0
+0 i a 0 0 0 d g 0
+
+middle
+1
+f 0 h 0 0 0 a 0 0
+g 0 0 0 0 0 0 i h
+0 0 0 0 0 0 0 f 0
+0 h f 0 0 0 d b 0
+c 0 0 f 0 g 0 0 e
+0 0 i b e d 0 0 c
+0 a e 0 0 f 0 0 i
+0 f 0 c d e 0 0 0
+0 0 0 h 0 a 0 0 0
+2
+0 a c i 0 0 0 g e
+0 b 0 0 0 e i 0 0
+0 0 0 g 0 0 0 0 a
+0 0 0 0 0 0 h 0 0
+c f 0 0 a 0 0 0 0
+0 0 0 0 0 g 0 0 i
+d 0 a 0 f 0 c 0 0
+g 0 0 e h 0 0 0 b
+0 0 b d g c e 0 f
+3
+0 0 a 0 0 0 0 0 h
+0 d 0 0 0 0 0 0 0
+h b g e d 0 0 0 0
+0 0 0 d a 0 0 h g
+0 0 0 g 0 c 0 i b
+0 g 0 0 b h e 0 f
+d i 0 0 0 0 0 0 c
+0 0 c 0 0 0 0 f i
+b a h 0 0 0 0 0 0
+4
+0 d 0 0 b 0 0 0 0
+0 0 0 h 0 0 0 0 g
+h b 0 0 f 0 0 0 d
+0 f 0 0 c 0 0 0 a
+0 0 0 0 e 0 h 0 0
+0 h e b 0 i c 0 0
+d i f c 0 b 0 0 0
+b 0 0 d 0 0 0 0 i
+g 0 0 i 0 0 d 0 h
+
+hard
+1
+0 d 0 0 0 e f 0 b
+0 0 0 i 0 0 0 0 0
+0 0 0 0 0 h e d 0
+0 b 0 f 0 0 a 0 0
+0 e 0 0 0 b c 0 f
+0 0 0 c 0 g b h 0
+g h c b f 0 0 0 0
+0 0 0 0 0 0 0 0 0
+f 0 e 0 g c 0 0 0
+2
+0 0 c i 0 0 d e a
+0 0 0 a 0 0 g 0 f
+0 0 e 0 g 0 0 0 b
+0 0 0 d 0 f a 0 0
+0 0 0 0 0 0 0 0 0
+0 0 a 0 e c 0 0 0
+0 a 0 0 0 0 0 i 0
+d h 0 0 0 a f 0 0
+g 0 0 0 0 0 0 0 c
+3
+0 0 0 a f 0 0 0 d
+0 0 0 i 0 0 a 0 0
+0 0 0 0 g c 0 0 b
+0 0 a 0 0 0 0 0 0
+f 0 b d 0 0 0 c a
+e 0 0 0 0 f 0 0 0
+0 0 g 0 0 0 0 i 0
+0 i 0 0 0 g b 0 0
+b h 0 0 0 0 0 e c
+4
+f 0 h 0 0 0 0 g 0
+g d 0 0 0 i 0 0 0
+0 0 0 0 d 0 0 c h
+e 0 0 d 0 b 0 0 0
+0 0 d i e 0 0 h 0
+0 g 0 0 c 0 0 0 0
+0 c 0 0 0 0 0 i 0
+0 0 e c 0 0 0 0 f
+i f 0 h a 0 0 0 e

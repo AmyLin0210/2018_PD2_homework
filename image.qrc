@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>finish_flag.png</file>
+        <file>reset.png</file>
+        <file>goback.png</file>
+        <file>sudoku.png</file>
+        <file>hint.png</file>
+        <file>start.png</file>
+        <file>correct.png</file>
+        <file>wrong.png</file>
+        <file>timesUp.png</file>
+        <file>solve.png</file>
+        <file>play.png</file>
+        <file>home.png</file>
+        <file>setting.png</file>
+        <file>normal.png</file>
+        <file>hard.png</file>
+        <file>easy.png</file>
+    </qresource>
+</RCC>
